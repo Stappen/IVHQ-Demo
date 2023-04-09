@@ -1,0 +1,95 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F4F5F6;
+}
+
+body {
+    margin-top: 40px;
+    overflow-y: scroll;
+}
+
+#page-title {
+    color: #132230;
+    text-align: center;
+}
+
+#resize-container {
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .2), 0 5px 15px rgba(0, 0, 0, .1);
+    overflow: hidden;
+    background-color: white;
+}
+
+#countries {
+    display: flex;
+    flex-direction: column;
+    background-color: #37679D;
+    color: white;
+    border-right: 1px solid #ededed;
+}
+
+#countries > div {
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+#countries > div.selected {
+    color: white;
+    background-color: #27486E;
+}
+
+.table-container {
+    padding: 10px 20px;
+}
+
+#disclaimer > p {
+    margin-top: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;    
+    margin-bottom: auto;
+}
+
+thead {
+    border-bottom: 1px solid #ededed;
+}
+  
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+  
+th {
+    background-color: #ddd;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f4f5f6;
+}
+
+  
+/* Use CSS grids to make the page responsive */
+@media (min-width: 768px) {
+    #resize-container {
+        display: grid;
+        grid-template-columns: 200px 1fr;
+
+        max-width: 800px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 767px) {
+    #countries {
+        max-height: 200px;
+        overflow-y: auto;
+    }
+
+    #resize-container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}

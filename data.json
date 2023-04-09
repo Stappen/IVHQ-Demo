@@ -1,0 +1,719 @@
+[
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "country_code": "AR",
+    "projects": [
+      {
+        "project_name": "Project in Argentina",
+        "fees_disclaimer": [
+          "Some projects have additional surcharges to cover materials"
+        ],
+        "extra_expenses": [
+          "Visa, flights, travel insurance (mandatory), vaccinations, criminal background check, souvenirs, in-country trips or tours, transport to and from your placement, transfer back to the airport at conclusion of the program, lunch and dinner and optional Spanish lessons.",
+          "Approx US$160 for weekly expenses, including meals."
+        ],
+        "language_lessons_available": true,
+        "activity_discounts_available": false,
+        "fees": [
+          {
+            "duration_i": 2,
+            "duration": "2 weeks",
+            "costs": {
+              "gb": "515",
+              "us": "620"
+            }
+          },
+          {
+            "duration_i": 3,
+            "duration": "3 weeks",
+            "costs": {
+              "gb": "625",
+              "us": "755"
+            }
+          },
+          {
+            "duration_i": 4,
+            "duration": "4 weeks",
+            "costs": {
+              "gb": "740",
+              "us": "890"
+            }
+          },
+          {
+            "duration_i": 5,
+            "duration": "5 weeks",
+            "costs": {
+              "gb": "850",
+              "us": "1,025"
+            }
+          },
+          {
+            "duration_i": 6,
+            "duration": "6 weeks",
+            "costs": {
+              "gb": "960",
+              "us": "1,160"
+            }
+          },
+          {
+            "duration_i": 8,
+            "duration": "8 weeks",
+            "costs": {
+              "gb": "1,185",
+              "us": "1,430"
+            }
+          },
+          {
+            "duration_i": 10,
+            "duration": "10 weeks",
+            "costs": {
+              "gb": "1,410",
+              "us": "1,700"
+            }
+          },
+          {
+            "duration_i": 12,
+            "duration": "12 weeks",
+            "costs": {
+              "gb": "1,630",
+              "us": "1,970"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "country_code": "AU",
+    "projects": [
+      {
+        "project_name": "Project in Australia",
+        "fees_disclaimer": [],
+        "extra_expenses": [
+          "Visa, flights, travel insurance (mandatory), vaccinations, criminal background check, souvenirs, in-country trips or tours",
+          "Transfer back to the airport at conclusion of the program",
+          "Dinners and weekend lunches",
+          "Approx US$200 for weekly expenses, including dinners."
+        ],
+        "language_lessons_available": false,
+        "activity_discounts_available": false,
+        "fees": [
+          {
+            "duration_i": 1,
+            "duration": "1 week",
+            "costs": {
+              "gb": "840",
+              "us": "1,010"
+            }
+          },
+          {
+            "duration_i": 2,
+            "duration": "2 weeks",
+            "costs": {
+              "gb": "1,675",
+              "us": "2,020"
+            }
+          },
+          {
+            "duration_i": 3,
+            "duration": "3 weeks",
+            "costs": {
+              "gb": "2,470",
+              "us": "2,980"
+            }
+          },
+          {
+            "duration_i": 4,
+            "duration": "4 weeks",
+            "costs": {
+              "gb": "3,260",
+              "us": "3,940"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bali",
+    "name": "Bali",
+    "country_code": "ID",
+    "projects": [
+      {
+        "project_name": "Project in Bali",
+        "fees_disclaimer": [
+          "Some projects have additional surcharges."
+        ],
+        "extra_expenses": [
+          "Visa, flights, travel insurance (mandatory), vaccinations, criminal background check, souvenirs, in-country trips or tours.",
+          "Transfer back to the airport at conclusion of the program",
+          "Approx US$30 spending money for weekly expenses"
+        ],
+        "language_lessons_available": false,
+        "activity_discounts_available": false,
+        "fees": [
+          {
+            "duration_i": 1,
+            "duration": "1 week",
+            "costs": {
+              "gb": "290",
+              "us": "350"
+            }
+          },
+          {
+            "duration_i": 2,
+            "duration": "2 weeks",
+            "costs": {
+              "gb": "410",
+              "us": "495"
+            }
+          },
+          {
+            "duration_i": 3,
+            "duration": "3 weeks",
+            "costs": {
+              "gb": "530",
+              "us": "640"
+            }
+          },
+          {
+            "duration_i": 4,
+            "duration": "4 weeks",
+            "costs": {
+              "gb": "640",
+              "us": "770"
+            }
+          },
+          {
+            "duration_i": 5,
+            "duration": "5 weeks",
+            "costs": {
+              "gb": "745",
+              "us": "895"
+            }
+          },
+          {
+            "duration_i": 6,
+            "duration": "6 weeks",
+            "costs": {
+              "gb": "840",
+              "us": "1,015"
+            }
+          },
+          {
+            "duration_i": 8,
+            "duration": "8 weeks",
+            "costs": {
+              "gb": "1,030",
+              "us": "1,245"
+            }
+          },
+          {
+            "duration_i": 10,
+            "duration": "10 weeks",
+            "costs": {
+              "gb": "1,225",
+              "us": "1,475"
+            }
+          },
+          {
+            "duration_i": 12,
+            "duration": "12 weeks",
+            "costs": {
+              "gb": "1,415",
+              "us": "1,705"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "country_code": "BE",
+    "projects": [
+      {
+        "project_name": "Project in Belgium",
+        "fees_disclaimer": [
+          "Some projects have additional surcharges"
+        ],
+        "extra_expenses": [
+          "Visa, flights, travel insurance (mandatory), vaccinations, criminal background check, lunches and dinners, transport to and from your placement, souvenirs, in-country trips or tours.",
+          "Transfer back to the airport at conclusion of the program",
+          "Approx US$200 for weekly expenses, including lunches and dinners."
+        ],
+        "language_lessons_available": false,
+        "activity_discounts_available": false,
+        "fees": [
+          {
+            "duration_i": 1,
+            "duration": "1 week",
+            "costs": {
+              "gb": "535",
+              "us": "645"
+            }
+          },
+          {
+            "duration_i": 2,
+            "duration": "2 weeks",
+            "costs": {
+              "gb": "990",
+              "us": "1,195"
+            }
+          },
+          {
+            "duration_i": 3,
+            "duration": "3 weeks",
+            "costs": {
+              "gb": "1,440",
+              "us": "1,735"
+            }
+          },
+          {
+            "duration_i": 4,
+            "duration": "4 weeks",
+            "costs": {
+              "gb": "1,925",
+              "us": "2,325"
+            }
+          },
+          {
+            "duration_i": 5,
+            "duration": "5 weeks",
+            "costs": {
+              "gb": "2,365",
+              "us": "2,855"
+            }
+          },
+          {
+            "duration_i": 6,
+            "duration": "6 weeks",
+            "costs": {
+              "gb": "2,805",
+              "us": "3,385"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "belize",
+    "name": "Belize",
+    "country_code": "BZ",
+    "projects": [
+      {
+        "project_name": "Project in Belize",
+        "fees_disclaimer": [],
+        "extra_expenses": [
+          "Visa, flights, travel insurance (mandatory), vaccinations, criminal background check, souvenirs, in-country trips or tours",
+          "Transfer to and from the airport - approx US$6-US$10 each way",
+          "Snacks to take out to the island",
+          "Approx US$200 for basic weekly expenses, including accommodation and meals on the mainland",
+          "US$25 per week for marine conservation park fees",
+          "US$25 per week for dive gear rental"
+        ],
+        "language_lessons_available": false,
+        "activity_discounts_available": false,
+        "fees": [
+          {
+            "duration_i": 1,
+            "duration": "1 week",
+            "costs": {
+              "gb": "660",
+              "us": "795"
+            }
+          },
+          {
+            "duration_i": 2,
+            "duration": "2 weeks",
+            "costs": {
+              "gb": "1,285",
+              "us": "1,550"
+            }
+          },
+          {
+            "duration_i": 3,
+            "duration": "3 weeks",
+            "costs": {
+              "gb": "1,910",
+              "us": "2,305"
+            }
+          },
+          {
+            "duration_i": 4,
+            "duration": "4 weeks",
+            "costs": {
+              "gb": "2,535",
+              "us": "3,060"
+            }
+          },
+          {
+            "duration_i": 5,
+            "duration": "5 weeks",
+            "costs": {
+              "gb": "3,160",
+              "us": "3,815"
+            }
+          },
+          {
+            "duration_i": 6,
+            "duration": "6 weeks",
+            "costs": {
+              "gb": "3,785",
+              "us": "4,570"
+            }
+          },
+          {
+            "duration_i": 8,
+            "duration": "8 weeks",
+            "costs": {
+              "gb": "5,030",
+              "us": "6,080"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "country_code": "BR",
+    "projects": [
+      {
+        "project_name": "Project in Brazil",
+        "fees_disclaimer": [
+          "If your chosen duration includes the Carnaval festival (21st-28th February 2020), a one-off surcharge will apply which covers the increase in the cost of accommodation and living in Brazil during Carnaval. For those who will finish on the week beginning February 17th, US$50 will be added to the program fee. For those who will be on the program during the week beginning February 24th, US$250 will be added to the program fee."
+        ],
+        "extra_expenses": [
+          "Visa, flights, travel insurance (mandatory), vaccinations, criminal background check, souvenirs, in-country trips or tours, transport to and from your placement.",
+          "Transfer back to the airport at conclusion of the program",
+          "Lunches and dinners while in-country",
+          "Portuguese lessons (optional)",
+          "Approx US$150 for weekly expenses"
+        ],
+        "language_lessons_available": false,
+        "activity_discounts_available": false,
+        "fees": [
+          {
+            "duration_i": 2,
+            "duration": "2 weeks",
+            "costs": {
+              "gb": "435",
+              "us": "525"
+            }
+          },
+          {
+            "duration_i": 3,
+            "duration": "3 weeks",
+            "costs": {
+              "gb": "545",
+              "us": "655"
+            }
+          },
+          {
+            "duration_i": 4,
+            "duration": "4 weeks",
+            "costs": {
+              "gb": "650",
+              "us": "785"
+            }
+          },
+          {
+            "duration_i": 5,
+            "duration": "5 weeks",
+            "costs": {
+              "gb": "760",
+              "us": "915"
+            }
+          },
+          {
+            "duration_i": 6,
+            "duration": "6 weeks",
+            "costs": {
+              "gb": "865",
+              "us": "1,045"
+            }
+          },
+          {
+            "duration_i": 8,
+            "duration": "8 weeks",
+            "costs": {
+              "gb": "1,080",
+              "us": "1,305"
+            }
+          },
+          {
+            "duration_i": 10,
+            "duration": "10 weeks",
+            "costs": {
+              "gb": "1,295",
+              "us": "1,565"
+            }
+          },
+          {
+            "duration_i": 12,
+            "duration": "12 weeks",
+            "costs": {
+              "gb": "1,510",
+              "us": "1,825"
+            }
+          },
+          {
+            "duration_i": 16,
+            "duration": "16 weeks",
+            "costs": {
+              "gb": "1,940",
+              "us": "2,345"
+            }
+          },
+          {
+            "duration_i": 20,
+            "duration": "20 weeks",
+            "costs": {
+              "gb": "2,370",
+              "us": "2,865"
+            }
+          },
+          {
+            "duration_i": 24,
+            "duration": "24 weeks",
+            "costs": {
+              "gb": "2,805",
+              "us": "3,385"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cambodia",
+    "name": "Cambodia",
+    "country_code": "KH",
+    "projects": [
+      {
+        "project_name": "Project in Cambodia",
+        "fees_disclaimer": [],
+        "extra_expenses": [
+          "Visa (US$30-35), flights, travel insurance (mandatory), vaccinations, criminal background check (mandatory), souvenirs, in-country trips or tours, transport to and from your placement ($30-$60 per week), trips and tours in-country.",
+          "Transfer back to the airport at the conclusion of the program",
+          "Approx US$30 spending money for weekly expenses"
+        ],
+        "language_lessons_available": false,
+        "activity_discounts_available": false,
+        "fees": [
+          {
+            "duration_i": 2,
+            "duration": "2 weeks",
+            "costs": {
+              "gb": "300",
+              "us": "360"
+            }
+          },
+          {
+            "duration_i": 3,
+            "duration": "3 weeks",
+            "costs": {
+              "gb": "395",
+              "us": "475"
+            }
+          },
+          {
+            "duration_i": 4,
+            "duration": "4 weeks",
+            "costs": {
+              "gb": "475",
+              "us": "570"
+            }
+          },
+          {
+            "duration_i": 5,
+            "duration": "5 weeks",
+            "costs": {
+              "gb": "555",
+              "us": "665"
+            }
+          },
+          {
+            "duration_i": 6,
+            "duration": "6 weeks",
+            "costs": {
+              "gb": "630",
+              "us": "760"
+            }
+          },
+          {
+            "duration_i": 8,
+            "duration": "8 weeks",
+            "costs": {
+              "gb": "790",
+              "us": "950"
+            }
+          },
+          {
+            "duration_i": 10,
+            "duration": "10 weeks",
+            "costs": {
+              "gb": "945",
+              "us": "1,140"
+            }
+          },
+          {
+            "duration_i": 12,
+            "duration": "12 weeks",
+            "costs": {
+              "gb": "1,100",
+              "us": "1,325"
+            }
+          },
+          {
+            "duration_i": 16,
+            "duration": "16 weeks",
+            "costs": {
+              "gb": "1,395",
+              "us": "1,685"
+            }
+          },
+          {
+            "duration_i": 20,
+            "duration": "20 weeks",
+            "costs": {
+              "gb": "1,695",
+              "us": "2,045"
+            }
+          },
+          {
+            "duration_i": 24,
+            "duration": "24 weeks",
+            "costs": {
+              "gb": "1,990",
+              "us": "2,405"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "country_code": "CN",
+    "projects": [
+      {
+        "project_name": "Project in China",
+        "fees_disclaimer": [],
+        "extra_expenses": [
+          "Visa, flights, travel insurance (mandatory), vaccinations, criminal background check, souvenirs, in-country trips or tours, transport to and from your placement.",
+          "Transfer back to the airport at conclusion of the program",
+          "Approx US$50 spending money for weekly expenses"
+        ],
+        "language_lessons_available": false,
+        "activity_discounts_available": false,
+        "fees": [
+          {
+            "duration_i": 1,
+            "duration": "1 week",
+            "costs": {
+              "gb": "260",
+              "us": "310"
+            }
+          },
+          {
+            "duration_i": 2,
+            "duration": "2 weeks",
+            "costs": {
+              "gb": "390",
+              "us": "470"
+            }
+          },
+          {
+            "duration_i": 3,
+            "duration": "3 weeks",
+            "costs": {
+              "gb": "525",
+              "us": "630"
+            }
+          },
+          {
+            "duration_i": 4,
+            "duration": "4 weeks",
+            "costs": {
+              "gb": "655",
+              "us": "790"
+            }
+          },
+          {
+            "duration_i": 5,
+            "duration": "5 weeks",
+            "costs": {
+              "gb": "790",
+              "us": "950"
+            }
+          },
+          {
+            "duration_i": 6,
+            "duration": "6 weeks",
+            "costs": {
+              "gb": "920",
+              "us": "1,110"
+            }
+          },
+          {
+            "duration_i": 8,
+            "duration": "8 weeks",
+            "costs": {
+              "gb": "1,185",
+              "us": "1,430"
+            }
+          },
+          {
+            "duration_i": 10,
+            "duration": "10 weeks",
+            "costs": {
+              "gb": "1,450",
+              "us": "1,750"
+            }
+          },
+          {
+            "duration_i": 12,
+            "duration": "12 weeks",
+            "costs": {
+              "gb": "1,715",
+              "us": "2,070"
+            }
+          },
+          {
+            "duration_i": 16,
+            "duration": "16 weeks",
+            "costs": {
+              "gb": "2,245",
+              "us": "2,710"
+            }
+          },
+          {
+            "duration_i": 20,
+            "duration": "20 weeks",
+            "costs": {
+              "gb": "2,775",
+              "us": "3,350"
+            }
+          },
+          {
+            "duration_i": 24,
+            "duration": "24 weeks",
+            "costs": {
+              "gb": "3,305",
+              "us": "3,990"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
